@@ -1,7 +1,8 @@
 import React from "react";
-import Header from "../lab1/components/layout/Header";
-import Footer from "../lab1/components/layout/Footer";
+
 import Link from "next/link";
+import Header from "../components/layout/Header/page";
+import Footer from "../components/layout/Footer/page";
 
 export const metadata = {
   title: "About — Medium Clone",
