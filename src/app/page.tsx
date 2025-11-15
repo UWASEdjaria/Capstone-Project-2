@@ -1,6 +1,7 @@
 import React from 'react'
-import Header from './components/layout/Header'
-import Footer from './components/layout/Footer'
+import Header from './components/layout/Header/page';
+import Footer from './components/layout/Footer/page';
+
 
 export const metadata = {
   title: "Medium — Human stories & ideas",
