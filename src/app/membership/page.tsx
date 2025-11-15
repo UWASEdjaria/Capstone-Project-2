@@ -1,5 +1,5 @@
-import Footer from "@/app/lab1/components/layout/Footer";
-import Header from "@/app/lab1/components/layout/Header";
+import Footer from "../components/layout/Footer/page";
+import Header from "../components/layout/Header/page";
 
 export const metadata = {
   title: "Membership — Medium Clone",
